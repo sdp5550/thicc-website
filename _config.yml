@@ -21,19 +21,19 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           sage
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
+      bio:            "Hi, I am Sage, the original author of this website. I hope you like it!"
+      email:          sdp5550@psu.edu
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
-      name:           Jane
+      name:           dr. dancy
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      bio:            The GOAT
+      email:          cld5070@psu.edu
       twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
@@ -44,7 +44,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: sage
       avatar: /assets/images/avatar1.jpg
       
   # all pages
