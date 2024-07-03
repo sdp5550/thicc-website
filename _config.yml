@@ -22,19 +22,19 @@ plugins:
 authors:
     sage:
       name:           Sage
-      site:           https://www.wowthemes.net
+      site:           https://github.com/sdp5550
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sage, the original author of this website. I hope you like it!"
       email:          sdp5550@psu.edu
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://github.com/sdp5550
 
     dancy:
       name:           Dr. Dancy
-      site:           https://www.wowthemes.net
+      site:           https://github.com/cld5070
       avatar:         /assets/images/avatar1.jpg
       bio:            The GOAT
       email:          cld5070@psu.edu
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://github.com/cld5070
  
 # Defaults
 defaults:
